@@ -8,4 +8,4 @@
 <h2>Notebook Access</h2>
 <br>
 
-[**Week 2 - Python Libraries**]()
+[**Week 2 - Python Libraries**](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)
