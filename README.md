@@ -1,7 +1,8 @@
 
 <br>
-<p align="center"><img height="150" src="images/Beginner_Python_Study_Group_GitHub.png">
-<h1><b> WWCode Beginner Python Study Group Series</b></h1>
+<p align="center"><img height="200" src="images/Beginner_Python_Study_Group_GitHub.png">
+<h1 align="center" margin-bottom="0"><b>Beginner Python Study Group</b></h1>
+<h3 align="center" margin-top="0">Women Who Code Python</h3>
 </p>
 
 
@@ -11,11 +12,11 @@ Join us every other Wednesday at 8PM EDT as we journey through the exciting worl
 
 <p align="center"><img align="center" height="300" src="images/Beginner_Python_Session_Dates.png"></p>
 
-<h2>Study Session Materials</h2><br>
+<h2><b>Study Session Materials</h2></b><br>
 
-[**Session 1 (Aug 26) - Introduction to Beginner Python Study Group (link to be inserted)**](http://link-to-be-inserted)
+**Session 1 (Aug 26) Study Group Introduction** - [access slides](http://link-to-be-inserted)
 
-[**Session 2 - Python Libraries**](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
+**Session 2 (Sep 9) Python Libraries** - [access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
 
 ##   
 
