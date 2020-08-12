@@ -4,11 +4,11 @@
 <h3 align="center" margin-top="0">by WomenWhoCode Python</h3>
 </p>
 
-
 Join us every other Wednesday at 8PM EDT as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
 
 <p align="center"><img align="center" height="300" src="images/Beginner_Python_Session_Dates.png"></p>
 
+##
 <h2><b>Study Session Materials</h2></b><br>
 
 **Session 1 (Aug 26) Study Group Introduction** - [access slides](http://link-to-be-inserted)
