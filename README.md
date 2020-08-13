@@ -8,14 +8,29 @@
 
 Join us every other Wednesday at 8PM EDT as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
 
+*Session materials will be updated 1-2 days prior to the Study Grouop*
+
 <!-- <p align="center"><img align="center" height="300" src="images/Beginner_Python_Session_Dates.png"></p> -->
 
+
+## **Session Materials **
+
+**Session 1 (Aug 26) Introduction to Python** - [Access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)  
+
+**Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
+
 <br>
-<h2><b>Study Session Materials</h2></b><br>
+## **Reference Resources**  
+**Introduction to Python / Colab**
+* [Google colab notebook](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  
+* [Github / colab / drive](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)  
+* [Python Applications / Uses](https://www.upgrad.com/blog/python-applications-in-real-world/ / https://medium.com/@patelharshali136/9-real-world-application-of-python-80f0067ea8c5)  
 
-**Session 1 (Aug 26) Study Group Introduction** - [access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)
+**Python Libraries**  
+* [pip install](https://datatofish.com/install-package-python-using-pip/)  
+* [How to use Python libraries](https://note.nkmk.me/en/python-package-version/)
+* [Python Modules](https://docs.python.org/3/tutorial/modules.html)  
 
-**Session 2 (Sep 9) Python Libraries** - [access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
 
 ##   
 
