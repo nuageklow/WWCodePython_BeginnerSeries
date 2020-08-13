@@ -2,7 +2,7 @@
 
 
 <p align="center"><img height="200" src="images/Beginner_Python_Study_Group_GitHub.png">
-<h3 align="center" margin-bottom="0"><b>Beginner Python Study Group</b></h3>
+<h2 align="center" margin-bottom="0"><b>Beginner Python Study Group</b></h3>
 <h3 align="center" margin-top="0">by WomenWhoCode Python</h3>
 </p>
 
@@ -13,7 +13,7 @@ Join us every other Wednesday at 8PM EDT as we journey through the exciting worl
 <br>
 <h2><b>Study Session Materials</h2></b><br>
 
-**Session 1 (Aug 26) Study Group Introduction** - [access slides](http://link-to-be-inserted)
+**Session 1 (Aug 26) Study Group Introduction** - [access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)
 
 **Session 2 (Sep 9) Python Libraries** - [access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
 
