@@ -1,8 +1,8 @@
 
-<h3 align="center" margin-top="0">Beginner Python Study Group</h3>
-</p>
+
+
 <p align="center"><img height="200" src="images/Beginner_Python_Study_Group_GitHub.png">
-<!-- <h1 align="center" margin-bottom="0"><b>Beginner Python Study Group</b></h1> -->
+<h3 align="center" margin-bottom="0"><b>Beginner Python Study Group</b></h3>
 <h3 align="center" margin-top="0">by WomenWhoCode Python</h3>
 </p>
 
