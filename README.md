@@ -27,7 +27,7 @@ Open the Google Colab notebook by clicking the link below. Before you start expl
 **Introduction to Python / Colab**
 * [Google colab notebook](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)  
 * [Github / colab / drive](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)  
-* [Python Applications and Uses](https://www.upgrad.com/blog/python-applications-in-real-world/ / https://medium.com/@patelharshali136/9-real-world-application-of-python-80f0067ea8c5)  
+* [Python Applications and Uses](https://www.upgrad.com/blog/python-applications-in-real-world)  
 
 **Python Libraries**  
 * [pip install](https://datatofish.com/install-package-python-using-pip/)  
