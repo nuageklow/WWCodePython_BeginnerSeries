@@ -8,9 +8,12 @@
 
 Join us every other Wednesday at 8PM EDT as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
 
-*Session materials will be updated 1-2 days prior to the Study Group*
+*Session materials will be updated 1-2 days prior to the Study Group*  
+
+*The Study Group will be using [google colab notebook](https://colab.research.google.com/notebooks/intro.ipynb) hence no python installation is required. If you wish to download Python on your local computer, click [here](https://www.python.org/downloads/)*
 
 <!-- <p align="center"><img align="center" height="300" src="images/Beginner_Python_Session_Dates.png"></p> -->
+
 
 ##
 
