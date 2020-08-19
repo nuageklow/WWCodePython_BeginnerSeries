@@ -19,11 +19,11 @@ Join us every other Wednesday at 8PM EDT as we journey through the exciting worl
 
 ## **Session Materials**  
 
-Open the Google Colab notebook by clicking the link below. Before you start exploring, go to *__File__* -> *__Copy to Drive__* on the browser to make a copy of the original notebook on your own Google Drive.
+<!-- Open the Google Colab notebook by clicking the link below. Before you start exploring, go to *__File__* -> *__Save a Copy in Drive__* on the browser to make a copy of the original notebook on your own Google Drive. -->
 
 **Session 1 (Aug 26) Introduction to Python** - [Access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)  
-
-**Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
+<!--
+**Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)   -->
 
 
 ## **Reference Resources**  
@@ -32,10 +32,10 @@ Open the Google Colab notebook by clicking the link below. Before you start expl
 * [Github / colab / drive](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)  
 * [Python Applications and Uses](https://www.upgrad.com/blog/python-applications-in-real-world)  
 
-**Python Libraries**  
+<!-- **Python Libraries**  
 * [pip install](https://datatofish.com/install-package-python-using-pip/)  
 * [How to use Python libraries](https://note.nkmk.me/en/python-package-version/)
-* [Python Modules](https://docs.python.org/3/tutorial/modules.html)  
+* [Python Modules](https://docs.python.org/3/tutorial/modules.html)   -->
 
 
 ##   
