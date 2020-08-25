@@ -37,4 +37,4 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 ##   
 
-Wanna ask us a question? Join us on [slack](link-to-be-inserted)!
+Wanna ask us a question? Join us on [slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-grsrjbk1-VwhxaVzjkpDokwgYHkYkqA)!
