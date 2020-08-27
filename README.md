@@ -18,7 +18,7 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 <!-- Open the Google Colab notebook by clicking the link below. Before you start exploring, go to *__File__* -> *__Save a Copy in Drive__* on the browser to make a copy of the original notebook on your own Google Drive. -->
 
-**Session 1 (Aug 26) Introduction to Python** - [Access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)  
+**Session 1 (Aug 26) Introduction to Python** - [Access slides](https://drive.google.com/file/d/1-xtnjLtA5wTMwt9owI-nwlfCz75PjLuD/view?usp=sharing)  
 <!--
 **Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)   -->
 
