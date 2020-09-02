@@ -6,14 +6,11 @@
 <h3 align="center" margin-top="0">by WomenWhoCode Python</h3>
 </p>
 
-Join us every other Wednesday at 5PM PST/8PM EST  as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
+Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exciting world of Python libraries, data types, programming logic and useful functions, and modules with real-time coding exercises. Grab a cup of tea (or your favorite drink) and code along with us!
 
-*Session materials will be updated 1-2 days prior to the Study Group*  
+*Session materials will be updated 1-2 days prior to the Study Group.*  
 
-*The Study Group will be using [google colab notebook](https://colab.research.google.com/notebooks/intro.ipynb) hence no python installation is required. If you wish to download Python on your local computer, click [here](https://www.python.org/downloads/)*
-
-<!-- <p align="center"><img align="center" height="300" src="images/Beginner_Python_Session_Dates.png"></p> -->
-
+*The Study Group will be using [google colab notebook](https://colab.research.google.com/notebooks/intro.ipynb) hence no python installation is required. If you wish to download Python on your local computer, click [here](https://www.python.org/downloads/).*
 
 ##
 
@@ -21,7 +18,7 @@ Join us every other Wednesday at 5PM PST/8PM EST  as we journey through the exci
 
 New Google Colab? Check out our [Colab FAQ](#Colab_FAQ.pdf) to get yourself ready!
 
-**Session 1 (Aug 26) Introduction to Python** - [Access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)  
+**Session 1 (Aug 26) Introduction to Python** - [Access slides](https://drive.google.com/file/d/1-xtnjLtA5wTMwt9owI-nwlfCz75PjLuD/view?usp=sharing)  
 <!--
 **Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)   -->
 
@@ -40,4 +37,4 @@ New Google Colab? Check out our [Colab FAQ](#Colab_FAQ.pdf) to get yourself read
 
 ##   
 
-Wanna ask us a question? Join us on [slack](link-to-be-inserted)!
+Wanna ask us a question? Join us on [slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-grsrjbk1-VwhxaVzjkpDokwgYHkYkqA)!
