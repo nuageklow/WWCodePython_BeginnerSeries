@@ -19,7 +19,7 @@ Join us every other Wednesday at 5PM PST/8PM EST  as we journey through the exci
 
 ## **Session Materials**  
 
-<!-- Open the Google Colab notebook by clicking the link below. Before you start exploring, go to *__File__* -> *__Save a Copy in Drive__* on the browser to make a copy of the original notebook on your own Google Drive. -->
+New Google Colab? Check out our [Colab FAQ](#Colab_FAQ.pdf) to get yourself ready!
 
 **Session 1 (Aug 26) Introduction to Python** - [Access slides](https://docs.google.com/presentation/d/1Ldog_W168zEWa5Qb0jbRfOooOwJ4FVaQWEQcf7uSglY/edit?usp=sharing)  
 <!--
