@@ -12,7 +12,7 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 *The Study Group will be using [google colab notebook](https://colab.research.google.com/notebooks/intro.ipynb) hence no python installation is required. If you wish to download Python on your local computer, click [here](https://www.python.org/downloads/).*  
 
-*New Google Colab? Check out our [Colab FAQ](#Colab_FAQ.pdf) to get yourself ready!*
+*New Google Colab? Check out our [Colab FAQ](https://drive.google.com/file/d/1_Etoo2NaiKusJvavcSpxXrC5ppmm3pTU/view?usp=sharing) to get yourself ready!*
 ##
 
 ## **Session Materials**  
