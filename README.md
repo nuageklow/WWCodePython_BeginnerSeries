@@ -20,8 +20,8 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 
 **Session 1 (Aug 26) Introduction to Python** - [Access slides](https://drive.google.com/file/d/1-xtnjLtA5wTMwt9owI-nwlfCz75PjLuD/view?usp=sharing)  
-<!--
-**Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)   -->
+
+**Session 2 (Sep 9) Python Libraries** - [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/WWCode_BeginnerPythonStudyGroup_week2.ipynb)  
 
 
 ## **Reference Resources**  
@@ -30,10 +30,10 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 * [Github / colab / drive](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)  
 * [Python Applications and Uses](https://www.upgrad.com/blog/python-applications-in-real-world)  
 
-<!-- **Python Libraries**  
+**Python Libraries**  
 * [pip install](https://datatofish.com/install-package-python-using-pip/)  
 * [How to use Python libraries](https://note.nkmk.me/en/python-package-version/)
-* [Python Modules](https://docs.python.org/3/tutorial/modules.html)   -->
+* [Python Modules](https://docs.python.org/3/tutorial/modules.html)  
 
 
 ##   
