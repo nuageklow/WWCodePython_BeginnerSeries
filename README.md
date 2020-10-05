@@ -28,7 +28,12 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 **Session 3 (Sep 23) Data Types (Part 1)**  -  
 [Access slides](https://drive.google.com/file/d/1yEnzUYqfjGm4CPqW9rA35XFjFNWOvz_f/view?usp=sharing)  
-[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses03_WWCode_Python_Beginner_Study_Series.ipynb)
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses03_WWCode_Python_Beginner_Study_Series.ipynb)  
+[Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses03_WWCode_Python_Beginner_Study_Series_Solutions.ipynb)  
+
+**Session 4 (Oct 7) Data Types (Part 2)** -  
+[Access slides](https://drive.google.com/file/d/1UtNUizkQVXZdjXTTENyjoyB-Or7lOJM4/view?usp=sharing)  
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
 
 
 ## **Reference Resources**  
@@ -47,7 +52,9 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 * [Python data type (Real Python)](https://realpython.com/python-data-types/)  
 * [Basic types (Numpy)](https://numpy.org/doc/stable/user/basics.types.html)  
 * [Automate the Boring Stuff with Python - Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)  
-* [Python Crash Course by Eric Matthes- Chapter 2](https://nostarch.com/download/samples/PythonCrashCourse2E_Sample_Ch2.pdf)
+* [Python Crash Course by Eric Matthes- Chapter 2](https://nostarch.com/download/samples/PythonCrashCourse2E_Sample_Ch2.pdf)  
+* [Data Types (w3 schools)](https://www.w3schools.com/python/python_datatypes.asp)  
+
 
 
 ##   
