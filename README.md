@@ -17,14 +17,12 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 ## **Session Materials**  
 
-
-
 **Session 1 (Aug 26) Introduction to Python** -
 [Access slides](https://drive.google.com/file/d/1-xtnjLtA5wTMwt9owI-nwlfCz75PjLuD/view?usp=sharing)  
 
 **Session 2 (Sep 9) Python Libraries** -   
 [Access slides](https://drive.google.com/file/d/1yLVlix913I20GzTBiET4Nqfree5keMy6/view?usp=sharing)  
-[Access slides](slides/'Ses02_WWCode Python Beginner Study Series.pdf')  
+[Access slides](#slides/'Ses02_WWCode Python Beginner Study Series.pdf')  
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses02_WWCode_BeginnerPythonStudyGroup_PythonLibrary.ipynb)  
 
 **Session 3 (Sep 23) Data Types (Part 1)**  -  
