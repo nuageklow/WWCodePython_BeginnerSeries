@@ -24,16 +24,17 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 **Session 2 (Sep 9) Python Libraries** -   
 [Access slides](https://drive.google.com/file/d/1yLVlix913I20GzTBiET4Nqfree5keMy6/view?usp=sharing)  
-[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses02_WWCode_BeginnerPythonStudyGroup_PythonLibrary.ipynb)  
+[Access slides](slides/'Ses02_WWCode Python Beginner Study Series.pdf')  
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses02_WWCode_BeginnerPythonStudyGroup_PythonLibrary.ipynb)  
 
 **Session 3 (Sep 23) Data Types (Part 1)**  -  
 [Access slides](https://drive.google.com/file/d/1yEnzUYqfjGm4CPqW9rA35XFjFNWOvz_f/view?usp=sharing)  
-[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses03_WWCode_Python_Beginner_Study_Series.ipynb)  
-[Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses03_WWCode_Python_Beginner_Study_Series_Solutions.ipynb)  
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses03_WWCode_Python_Beginner_Study_Series.ipynb)  
+[Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses03_WWCode_Python_Beginner_Study_Series_Solutions.ipynb)  
 
 **Session 4 (Oct 7) Data Types (Part 2)** -  
-[Access slides](https://drive.google.com/file/d/1UtNUizkQVXZdjXTTENyjoyB-Or7lOJM4/view?usp=sharing)  
-[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
+[Access slides](https://drive.google.com/file/d/1LTyun-ycIODM_6WfsXI1QXWWQYn3ZC3M/view?usp=sharing)  
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
 
 
 ## **Reference Resources**  
