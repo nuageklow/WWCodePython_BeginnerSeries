@@ -32,7 +32,7 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 **Session 4 (Oct 7) Data Types (Part 2)** -  
 [Access slides](https://drive.google.com/file/d/1LTyun-ycIODM_6WfsXI1QXWWQYn3ZC3M/view?usp=sharing)  
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
-
+[Access code solutions](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/Ses04_WWCodePython:Beginner_Study_Series_solutions.ipynb)
 
 ## **Reference Resources**  
 **Introduction to Python / Colab**
@@ -58,3 +58,4 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 ##   
 
 Wanna ask us a question? Join us on [slack](https://join.slack.com/t/wwcodepython/shared_invite/zt-grsrjbk1-VwhxaVzjkpDokwgYHkYkqA)!
+New to slack? Watch this [Youtube tutorial](https://www.youtube.com/playlist?list=PLWlXaxtQ7fUb1WqLJDqJFGQsAXU7CjoGz) to get started! (Thanks Judi for the link!)
