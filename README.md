@@ -22,7 +22,6 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 
 **Session 2 (Sep 9) Python Libraries** -   
 [Access slides](https://drive.google.com/file/d/1yLVlix913I20GzTBiET4Nqfree5keMy6/view?usp=sharing)  
-[Access slides](#slides/'Ses02_WWCode Python Beginner Study Series.pdf')  
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses02_WWCode_BeginnerPythonStudyGroup_PythonLibrary.ipynb)  
 
 **Session 3 (Sep 23) Data Types (Part 1)**  -  
@@ -53,7 +52,7 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 * [Automate the Boring Stuff with Python - Chapter 1](https://automatetheboringstuff.com/2e/chapter1/)  
 * [Python Crash Course by Eric Matthes- Chapter 2](https://nostarch.com/download/samples/PythonCrashCourse2E_Sample_Ch2.pdf)  
 * [Data Types (w3 schools)](https://www.w3schools.com/python/python_datatypes.asp)  
-
+* [Automate the Boring Stuff with Python - Chapter 4](http://www.automatetheboringstuff.com/2e/chapter4/)  
 
 
 ##   
