@@ -21,18 +21,26 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 [Access slides](https://drive.google.com/file/d/1-xtnjLtA5wTMwt9owI-nwlfCz75PjLuD/view?usp=sharing)  
 
 **Session 2 (Sep 9) Python Libraries** -   
-[Access slides](https://drive.google.com/file/d/1yLVlix913I20GzTBiET4Nqfree5keMy6/view?usp=sharing)  
+<!-- [Access slides](https://drive.google.com/file/d/1yLVlix913I20GzTBiET4Nqfree5keMy6/view?usp=sharing)   -->
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses02_WWCode%20Python%20Beginner%20Study%20Series.pdf)
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses02_WWCode_BeginnerPythonStudyGroup_PythonLibrary.ipynb)  
 
 **Session 3 (Sep 23) Data Types (Part 1)**  -  
-[Access slides](https://drive.google.com/file/d/1yEnzUYqfjGm4CPqW9rA35XFjFNWOvz_f/view?usp=sharing)  
+<!-- [Access slides](https://drive.google.com/file/d/1yEnzUYqfjGm4CPqW9rA35XFjFNWOvz_f/view?usp=sharing)   -->
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses03_WWCode%20Python%20Beginner%20Study%20Series.pdf)
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses03_WWCode_Python_Beginner_Study_Series.ipynb)  
 [Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses03_WWCode_Python_Beginner_Study_Series_Solutions.ipynb)  
 
 **Session 4 (Oct 7) Data Types (Part 2)** -  
-[Access slides](https://drive.google.com/file/d/1LTyun-ycIODM_6WfsXI1QXWWQYn3ZC3M/view?usp=sharing)  
+<!-- [Access slides](https://drive.google.com/file/d/1LTyun-ycIODM_6WfsXI1QXWWQYn3ZC3M/view?usp=sharing)   -->
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses04_WWCode%20Python%20Beginner%20Study%20Series.pdf)
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
 [Access code solutions](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/Ses04_WWCodePython:Beginner_Study_Series_solutions.ipynb)
+
+**Session 5 (Oct 21) Programming Logic** -  
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses05_WWCode%20Python%20Beginner%20Study%20Series.pdf)
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/Ses05_WWCode_BeginnerPythonStudyGroup_ProgrammingLogic.ipynb)  
+
 
 ## **Reference Resources**  
 **Introduction to Python / Colab**
@@ -53,6 +61,11 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 * [Python Crash Course by Eric Matthes- Chapter 2](https://nostarch.com/download/samples/PythonCrashCourse2E_Sample_Ch2.pdf)  
 * [Data Types (w3 schools)](https://www.w3schools.com/python/python_datatypes.asp)  
 * [Automate the Boring Stuff with Python - Chapter 4](http://www.automatetheboringstuff.com/2e/chapter4/)  
+
+**Programming Logic**  
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter2/)  
+* [W3 Schools: if/elif](https://www.w3schools.com/python/gloss_python_elif.asp)  
+* [Flow Control in Python - Official Documentation](https://docs.python.org/2/tutorial/controlflow.html)  
 
 
 ##   
