@@ -35,7 +35,7 @@ Join us every other Wednesday at 5PM PDT/8PM EDT  as we journey through the exci
 <!-- [Access slides](https://drive.google.com/file/d/1LTyun-ycIODM_6WfsXI1QXWWQYn3ZC3M/view?usp=sharing)   -->
 [Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses04_WWCode%20Python%20Beginner%20Study%20Series.pdf)
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses04_WWCode_Python_Beginner_Study_Series.ipynb)  
-[Access code solutions](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/Ses04_WWCodePython:Beginner_Study_Series_solutions.ipynb)
+[Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses04_WWCode_Python_Beginner_Study_Series_solution.ipynb)
 
 **Session 5 (Oct 21) Programming Logic** -  
 [Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses05_WWCode%20Python%20Beginner%20Study%20Series.pdf)
