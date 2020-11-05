@@ -44,8 +44,8 @@ Join us every other Wednesday at 4PM PST/7PM EST  as we journey through the exci
 
 **Session 6 (Nov 4) Review Week** - 
 [Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/ReviewWeek_WWCode%20Python%20Beginner%20Study%20Series.pdf)  
-[Access colab notebook](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/ReviewWeek.ipynb)  
-[Access code solutions](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/ReviewWeek_solutions.ipynb)
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/ReviewWeek.ipynb)  
+[Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/ReviewWeek_Solutions.ipynb)
 
 
 ## **Reference Resources**  
