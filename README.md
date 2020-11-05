@@ -42,6 +42,11 @@ Join us every other Wednesday at 4PM PST/7PM EST  as we journey through the exci
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses05_WWCode_BeginnerPythonStudyGroup_ProgrammingLogic.ipynb)  
 [Access code solutions](https://colab.research.google.com/github/nuageklow/WWCodePython_BeginnerSeries/blob/master/notebooks/Ses05_WWCode_BeginnerPythonStudyGroup_ProgrammingLogic_Solutions.ipynb)
 
+**Session 6 (Nov 4) Review Week** - 
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/ReviewWeek_WWCode Python Beginner Study Series.pdf)  
+[Access colab notebook](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/ReviewWeek.ipynb)  
+[Access code solutions](https://colab.research.google.com/github/nuageklow/blob/master/notebooks/ReviewWeek_solutions.ipynb)
+
 
 ## **Reference Resources**  
 **Introduction to Python / Colab**
