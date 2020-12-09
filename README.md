@@ -51,6 +51,12 @@ Join us every other Wednesday at 4PM PST/7PM EST  as we journey through the exci
 [Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses07_WWCode%20Python%20Beginner%20Study%20Series.pdf)  
 [Access colab notebook](https://colab.research.google.com/github/nuageklow/WWCodePYthon_BeginnerSeries/blob/master/notebooks/Ses07_WWCode_BeginnerPythonStudyGroup.ipynb)  
 
+**Session 8 (Dec 9) Mini-project** -  
+<font color="skyblue">_Note: we will be demonstrating the code on local environment, please ensure [python](https://www.python.org/downloads/) and code editor are downloaded at your computer._</font>  
+[Access slides](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/slides/Ses08_WWCode%20Python%20Beginner%20Study%20Series.pdf)  
+[Download pong game zip file](https://github.com/nuageklow/WWCodePython_BeginnerSeries/blob/master/pong.zip)
+
+
 
 ## **Reference Resources**  
 **Introduction to Python / Colab**
